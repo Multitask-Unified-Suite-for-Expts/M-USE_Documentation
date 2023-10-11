@@ -1,6 +1,6 @@
 # M-USE_Documentation
 
-A collection of files documenting the M-USE ecoaystem.
+A collection of files documenting the M-USE ecosystem.
 
 ### M-USE Developer Manual
 Covers everything associated with actively developing new tasks using M-USE in the Unity editor.
